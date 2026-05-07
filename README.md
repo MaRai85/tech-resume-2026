@@ -1,7 +1,9 @@
 \# Personal Resume Website
 
 
+
 Personal portfolio website developed to showcase my professional background, technical skills and development projects.
+
 
 
 \## Built with
@@ -29,3 +31,4 @@ Personal portfolio website developed to showcase my professional background, tec
 
 
 This project was created as part of my front-end learning journey.
+
