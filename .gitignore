@@ -1,13 +1,4 @@
-# JetBrains IDEs (WebStorm)
-.idea/
+﻿.idea/
 *.iml
-
-# Workspace config
 workspace.xml
-
-# OS
 .DS_Store
-Thumbs.db
-
-# Scratch files
-Scratches/
